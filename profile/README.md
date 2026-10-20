@@ -1,20 +1,20 @@
 <div align="center">
 
-<a href="https://github.com/Lithe-IDEA/Lithe-IDEA">
+<a href="https://github.com/1lck/Lithe-IDEA">
   <img src="./assets/banner.svg" width="100%" alt="Lithe — 轻量级 IntelliJ IDEA 替代品，为 Java 与 AI 协作而生">
 </a>
 
 <p>
-  <a href="https://github.com/Lithe-IDEA/Lithe-IDEA/releases/latest"><img src="https://img.shields.io/github/v/release/Lithe-IDEA/Lithe-IDEA?style=for-the-badge&label=release&logo=github&logoColor=white&color=1EA7FF" alt="Latest release"></a>
+  <a href="https://github.com/1lck/Lithe-IDEA/releases/latest"><img src="https://img.shields.io/github/v/release/1lck/Lithe-IDEA?style=for-the-badge&label=release&logo=github&logoColor=white&color=1EA7FF" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/macOS-13%2B-111827?style=for-the-badge&logo=apple&logoColor=white" alt="macOS 13+">
   <img src="https://img.shields.io/badge/Windows-x64-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows x64">
   <img src="https://img.shields.io/badge/license-Apache%202.0-2BF5B4?style=for-the-badge" alt="Apache License 2.0">
 </p>
 
 <p>
-  <a href="https://github.com/Lithe-IDEA/Lithe-IDEA/releases/latest"><b>⬇️ 下载</b></a> ·
+  <a href="https://github.com/1lck/Lithe-IDEA/releases/latest"><b>⬇️ 下载</b></a> ·
   <a href="https://github.com/Lithe-IDEA/Lithe-store"><b>🧩 插件市场</b></a> ·
-  <a href="https://github.com/Lithe-IDEA/Lithe-IDEA/issues"><b>🐛 反馈问题</b></a> ·
+  <a href="https://github.com/1lck/Lithe-IDEA/issues"><b>🐛 反馈问题</b></a> ·
   <a href="#-加入社区"><b>💬 加入社区</b></a>
 </p>
 
@@ -81,7 +81,7 @@
 
 | 仓库 | 说明 |
 | --- | --- |
-| 🚀 [**Lithe-IDEA**](https://github.com/Lithe-IDEA/Lithe-IDEA) | Lithe IDE 主仓库（macOS · Windows），Issue 与 PR 请提交到这里 |
+| 🚀 [**1lck/Lithe-IDEA**](https://github.com/1lck/Lithe-IDEA) | Lithe IDE 主仓库（macOS · Windows），Issue 与 PR 请提交到这里 |
 | 🛍️ [**Lithe-store**](https://github.com/Lithe-IDEA/Lithe-store) | Lithe 插件市场索引 |
 | 🐘 [lithe-plugin-maven](https://github.com/Lithe-IDEA/lithe-plugin-maven) | 声明式 Maven 构建系统插件 |
 | 🐘 [lithe-plugin-gradle](https://github.com/Lithe-IDEA/lithe-plugin-gradle) | 声明式 Gradle 构建系统插件 |
@@ -94,11 +94,11 @@
 **macOS（Homebrew）**
 
 ```bash
-brew tap lithe-idea/lithe https://github.com/Lithe-IDEA/Lithe-IDEA.git
+brew tap lithe-idea/lithe https://github.com/1lck/Lithe-IDEA.git
 brew install --cask lithe-idea/lithe/lithe
 ```
 
-**macOS / Windows 安装包**：前往 [GitHub Releases](https://github.com/Lithe-IDEA/Lithe-IDEA/releases/latest) 下载最新版本。
+**macOS / Windows 安装包**：前往 [GitHub Releases](https://github.com/1lck/Lithe-IDEA/releases/latest) 下载最新版本。
 
 ## 💬 加入社区
 
@@ -106,7 +106,7 @@ brew install --cask lithe-idea/lithe/lithe
 
 - **QQ 群**：[163027877](https://qm.qq.com/cgi-bin/qm/qr?k=&group_code=163027877)
 - **微信群**：[通过飞书加入](https://gcnctzuuwe9u.feishu.cn/wiki/HJFbwZ0hZirAPnkWF3xcPWkCnid?from=from_copylink)
-- **问题与建议**：[GitHub Issues](https://github.com/Lithe-IDEA/Lithe-IDEA/issues)
+- **问题与建议**：[GitHub Issues](https://github.com/1lck/Lithe-IDEA/issues)
 
 <div align="center">
 <sub>如果 Lithe 对你有帮助，欢迎点一个 ⭐ Star 支持我们。</sub>
